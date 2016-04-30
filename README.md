@@ -1,7 +1,7 @@
 # DictionaryIndexCompareJP
 日本語版辞書よみ順ソート用比較クラス
 ======================
-辞書・辞典の目次のような「読み順ソート」を行うための文字列比較クラス(DictionaryIndexCompareJP.cs)です。
+辞書・辞典の目次のような「読み順ソート」を行うための文字列比較クラス(DictionaryIndexCompareJP.cs)です。  
 JIS X 4061に従っているつもりです。
 
 言語・開発環境
@@ -16,7 +16,7 @@ VisualStudio2015
 DictionaryIndexCompareJP.cs を目的のプロジェクトなどへコピー・登録してください。
 
 ２、コードの利用
-list.Sort(new DictionaryIndexCompareJP()); のようにソーターに比較クラスのインスタンスを渡します。
+list.Sort(new DictionaryIndexCompareJP()); のようにソーターに比較クラスのインスタンスを渡します。  
 ※TestForm.OnLoad() を参照のこと
 
 関連情報
@@ -27,8 +27,8 @@ list.Sort(new DictionaryIndexCompareJP()); のようにソーターに比較ク�
 
 ライセンス
 ------
-ライセンスを適用するファイルは DictionaryIndexCompareJP.cs のみです。
-他のソース・プロジェクトファイルへは著作権を主張しません。
-The MIT License (MIT)
-Copyright (c) 2016 ZZO
+ライセンスを適用するファイルは DictionaryIndexCompareJP.cs のみです。  
+他のソース・プロジェクトファイルへは著作権を主張しません。  
+The MIT License (MIT)  
+Copyright (c) 2016 ZZO  
 see also 'LICENSE' file
