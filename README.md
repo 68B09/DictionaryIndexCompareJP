@@ -6,9 +6,7 @@ JIS X 4061に従っているつもりです。
 
 言語・開発環境
 ------
-C#
-.NET Framework 4.0
-VisualStudio2015
+C#/.NET Framework 4.0/VisualStudio2015
 
 使い方
 ------
@@ -28,7 +26,6 @@ list.Sort(new DictionaryIndexCompareJP()); のようにソーターに比較ク�
 ライセンス
 ------
 ライセンスを適用するファイルは DictionaryIndexCompareJP.cs のみです。  
-他のソース・プロジェクトファイルへは著作権を主張しません。  
 The MIT License (MIT)  
 Copyright (c) 2016 ZZO  
 see also 'LICENSE' file
