@@ -13,7 +13,7 @@ C#/.NET Framework 4.0/VisualStudio2015
 １、プロジェクトへの登録
 DictionaryIndexCompareJP.cs を目的のプロジェクトなどへコピー・登録してください。
 
-２、コードの利用
+２、コードの利用  
 list.Sort(new DictionaryIndexCompareJP()); のようにソーターに比較クラスのインスタンスを渡します。  
 ※TestForm.OnLoad() を参照のこと
 
