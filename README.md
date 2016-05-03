@@ -10,7 +10,7 @@ C#/.NET Framework 4.0/VisualStudio2015
 
 使い方
 ------
-１、プロジェクトへの登録
+１、プロジェクトへの登録  
 DictionaryIndexCompareJP.cs を目的のプロジェクトなどへコピー・登録してください。
 
 ２、コードの利用  
